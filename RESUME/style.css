@@ -1,0 +1,24 @@
+.co, .c2, .c4, .c6{
+    background-color: rgb(252, 252, 140);
+
+}
+.c1 ,.c5{
+    color: brown;
+    font-size: x-large;
+}
+
+.c3{
+    color: brown;
+    font-size: x-large;
+}
+
+.c6{
+    background-color: gray;
+}
+button{
+    color: black;
+    font-size: larger;
+}
+td{
+    justify-content: center;
+}
